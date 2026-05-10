@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "98378ad6-be3e-4eb0-9d47-21dbf9e663be",
+      "email": "janasruthisingaravelu25@gmail.com",
+      "password": "js25js25",
+      "name": "JANASRUTHI"
+    }
+  ],
+  "trips": [
+    {
+      "id": "0ebb6f58-b1bb-4c57-8296-cf18d581aace",
+      "name": "WAYANAD DAYS",
+      "startDate": "2026-05-14",
+      "endDate": "2026-05-20",
+      "description": "EXPLORE NEW PLACES",
+      "userId": "98378ad6-be3e-4eb0-9d47-21dbf9e663be",
+      "stops": [],
+      "createdAt": "2026-05-10T09:36:22.118Z"
+    },
+    {
+      "id": "37167711-4562-4940-84e5-d0e6f65a66c7",
+      "name": "bangalore days",
+      "startDate": "2027-06-15",
+      "endDate": "2027-06-25",
+      "description": "friends trip!",
+      "userId": "98378ad6-be3e-4eb0-9d47-21dbf9e663be",
+      "stops": [],
+      "createdAt": "2026-05-10T09:53:48.506Z"
+    }
+  ]
+}
